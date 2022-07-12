@@ -2,9 +2,9 @@
 
 
 <!-- **MoadBino/MoadBino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-[Happy ](back.jpg)
-<!-- Here are some ideas to get you started: -->
 
+<!-- Here are some ideas to get you started: -->
+![My Image](../im/back.jpg)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
