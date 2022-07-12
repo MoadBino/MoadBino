@@ -9,7 +9,6 @@
 - Full-stack developer with solid experience in building responsive
   web applications and design. Strive for excellence in everything I do.
 
--
 - 🔭 I’m currently working on new project
 - 🌱 I’m currently learning socket.io
 - 💬 Ask me about anything i will be happy to hellp
@@ -29,6 +28,6 @@
 
  ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+### My GitHub stats : 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoadBino)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoadBino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
