@@ -6,12 +6,12 @@
 
 ![My Image](./im/back.jpg)
 
-- Full-stack developer with solid experience in building responsive
+Full-stack developer with solid experience in building responsive
   web applications and design. Strive for excellence in everything I do.
 
 - 🔭 I’m currently working on new project
 - 🌱 I’m currently learning socket.io
-- 💬 Ask me about anything i will be happy to hellp
+- 💬 Ask me about React, NodeJS, MongoDB, and ExpressJS
 - 📫 How to reach me: alshishani.moad@gmail.com
 
 ---
